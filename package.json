@@ -1,6 +1,6 @@
 {
   "name": "bogo",
-  "version": "3.9.2",
+  "version": "3.9.3",
   "description": "A straight-forward multilingual plugin. No more double-digit custom DB tables or hidden HTML comments that could cause you headaches later on.",
   "private": true,
   "scripts": {
