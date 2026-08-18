@@ -2,8 +2,8 @@
 Contributors: rocklobsterinc, takayukister, itpixelz
 Tags: multilingual, localization, language, locale, admin
 Requires at least: 6.7
-Tested up to: 7.0
-Stable tag: 3.9.1
+Tested up to: 7.1
+Stable tag: 3.9.2
 Requires PHP: 7.4
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -62,6 +62,10 @@ With the default configuration, this plugin, in itself, does not:
 1. The **Language Packs** screen lets you view and install language packs.
 
 == Changelog ==
+
+= 3.9.3 =
+
+* Confirmed WordPress 7.1 compatibility.
 
 = 3.9.2 =
 
