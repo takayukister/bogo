@@ -63,6 +63,10 @@ With the default configuration, this plugin, in itself, does not:
 
 == Changelog ==
 
+= 3.9.3 =
+
+* Confirmed WordPress 7.1 compatibility.
+
 = 3.9.2 =
 
 * Improves authorization check in REST API.
